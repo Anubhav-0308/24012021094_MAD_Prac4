@@ -1,3 +1,5 @@
+<img width="415" height="735" alt="image" src="https://github.com/user-attachments/assets/a6fbed8f-ff45-459f-b23e-0464b71b8da7" />
+
 # ⏰ Alarm Reminder App
 
 A simple and user-friendly **Android Alarm Application** built using **Kotlin**. This application allows users to select a time, create an exact alarm, and play an alarm sound when the selected time is reached.
